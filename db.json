@@ -1,0 +1,95 @@
+{
+    "resep": [
+        {
+            "id": 1,
+            "title": "ayam kecap manis",
+            "image": "https://www.masakapahariini.com/wp-content/uploads/2018/04/kecap-bango-manis-group-100x100.png",
+            "desc": [
+                "1 Panaskan minyak di atas api sedang. Masukkan potongan daging ayam, goreng hingga kecokelatan. Angkat, tiriskan. Sisihkan.",
+                "2 Panaskan margarin, tumis bawang putih hingga harum. Masukkan bawang bombay, masak hingga layu.",
+                "3 Tuang bahan saus yang telah diaduk rata bersama Bango Kecap Manis dan Royco Kaldu Ayam, didihkan. Tambahkan ayam. Masak hingga bumbu meresap.",
+                "4 Masukkan daun bawang, aduk rata. Angkat.",
+                "5 Sajikan segera."
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Ayam Bumbu Bali Merah",
+            "image": "https://www.masakapahariini.com/wp-content/uploads/2021/01/shutterstock_1820199044-780x440.jpg",
+            "desc": [
+                "1 Lumuri daging ayam dengan garam dan jeruk nipis. Diamkan selama 10 menit. Sisihkan.",
+                "2 Panaskan minyak, goreng ayam hingga setengah matang. Angkat dan tiriskan. Sisihkan.",
+                "3 Ambil 3 sdm minyak sisa menggoreng daging ayam, gunakan untukmenumis bumbu halus, daun jeruk, daun salam, dan serai hingga harum.",
+                "4 Masukkan daging ayam, tomat, dan Royco Kaldu Ayam, aduk. Masak di atas api kecil hingga daging ayam matang.",
+                "5 Tambahkan air jeruk limau, aduk rata. Angkat. Sajikan."
+            ]
+        },
+        {
+            "id": 3,
+            "title": "Resep Ayam Kemangi Goreng",
+            "image": "https://www.masakapahariini.com/wp-content/uploads/2019/12/Ayam-Kemangi--620x440.jpg",
+            "desc": [
+                "1 Rebus ayam dengan bumbu halus, daun kemangi, garam, merica, dan Bango Kecap Manis. Aduk rata.",
+                "2 Masak ayam dengan api kecil hingga matang. Angkat dan sisihkan",
+                "3 Panaskan minyak, goreng ayam dan kemangi hingga kering.",
+                "4 Angkat dan sajikan."
+            ]
+        },
+        {
+            "id": 4,
+            "title": "perkedel daging",
+            "image": "https://www.masakapahariini.com/wp-content/uploads/2019/05/perkedel-daging-400x240.jpg",
+            "desc": [
+                "1 Perkedel daging: Di dalam mangkuk, aduk rata daging giling, roti tawar, telur, garam, merica, dan pala bubuk. Ambil sedikit campuran daging. Bentuk bulat, pipihkan.",
+                "2 Goreng sebentar dalam minyak yang sudah dipanaskan di atas api sedang hingga matang. Angkat dan tiriskan.",
+                "3 Bahan saus: Di dalam wajan di atas api sedang, panaskan margarin. Tumis bawang merah sampai harum. Masukkan Bango Kecap Manis dan air, aduk rata. Tambahkan garam, merica, dan pala bubuk. Didihkan.",
+                "4 Masukkan daging. Masak sampai matang. Angkat.",
+                "5 Sajikan."
+            ]
+        },
+        {
+            "id": 5,
+            "title": "daging sapi kecap bango",
+            "image": "https://www.masakapahariini.com/wp-content/uploads/2018/04/semur-daging-sapi-sederhana-400x240.png",
+            "desc": [
+                "1 Haluskan bawang merah, bawang putih, dan cabai merah.",
+                "2 Siapkan minyak untuk menumis dalam wajan.",
+                "3 Tumis bumbu yang telah dihaluskan, tambahkan daun salam dan jahe. Tumis hingga harum.",
+                "4 Masukkan daging. Tumis hingga daging berubah warna.",
+                "5 Masukkan kentang. Tumis kembali hingga bumbu tercampur.",
+                "6 Masukkan air hingga merendam daging dan kentang. Tambahkan Bango Kecap Manis, gula merah, gula pasir, garam, kayu manis bubuk, dan lada secukupnya.",
+                "7 Tutup wajan dan kecilkan api. Masak hingga air meresap dan daging matang serta empuk.",
+                "8 Hidangkan semur daging sapi selagi hangat."
+            ]
+        },
+        {
+            "id": 6,
+            "title": "Tahu Susu Lembang",
+            "image": "https://www.masakapahariini.com/wp-content/uploads/2018/04/kecap-bango-manis-group-100x100.png",
+            "desc": [
+                "1 RESEP TAHU GORENGAdonan tepung: Aduk rata tepung terigu, baking powder, bubuk cabai, merica, dan Royco Kaldu Ayam. Sisihkan.",
+                "2 Kocok rata telur dan susu cair, sisihkan. Ambil potongan tahu, masukkan ke dalam tepung, kemudian masukkan ke dalam campuran susu, dan lumuri kembali dengan tepung hingga merata.",
+                "3 Goreng dengan api panas hingga berwarna coklat keemasan. Angkat dan tiriskan.",
+                "4 Sambal kecap: Tuang Bango Kecap Manis Pedas ke dalam wadah sambal. Sajikan tahu goreng dengan sambal kecap.",
+                "5 RESEP TAHU TUMISPanaskan margarin dalam wajan, tumis bawang merah, bawang putih, bawang bombay dan cabai rawit hingga harum. Masukkan tomat dan air, aduk.",
+                "6 Tambahkan Bango Kecap Manis, Royco Kaldu Ayam, dan merica, aduk. Masak hingga matang.",
+                "7 Masukkan tahu, aduk rata. Masak hingga tahu berubah warna dan kuah meresap ke dalam tahu. Angkat, sajikan.",
+                "8 RESEP TAHU KUKUS UDANGAduk rata Bango Kecap Manis, garam, merica, bawang putih, bawang merah, jahe, air, tepung sagu. Sisihkan.",
+                "9 Siapkan pinggan tahan panas, tata tahu ke dalamnya. Beri 1 sdm udang cincang ke atas tahu. Kucuri dengan campuran kecap, taburi dengan bawang daun.",
+                "10 Kukus dalam dandang panas selama sekitar 20 menit atau hingga matang. Angkat. Sajikan.",
+                "11 Sajikan ketiga hidangan untuk dinikmati selagi hangat."
+            ]
+        },
+        {
+            "id": 7,
+            "title": "Telur Keju dan Sayur",
+            "image": "https://www.masakapahariini.com/wp-content/uploads/2019/05/dadar-telur-keju-780x440.jpg",
+            "desc": [
+                "1 Panaskan 1 sdm minyak di dalam wajan di atas api sedang. Tumis jamur, bayam, dan wortel selama 2 menit.",
+                "2 Dalam mangkuk, kocok telur, susu, Royco Kaldu Ayam, dan sayur yang telah ditumis, aduk rata.",
+                "3 Panaskan kembali wajan dangan sedikit minyak, tuangkan campuran telur. Ketika telah setengah matang, letakkan keju di tengahnya. Gulung seperti omelette. Angkat.",
+                "4 Sajikan segera ditemani saus tomat."
+            ]
+        }
+    ]
+}
