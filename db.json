@@ -105,6 +105,63 @@
                 "7 Blender dengan tinggi, tunggu hingga lembut serta halus",
                 "8 Tuangkan pada gelas saji dan jus pisang sudah disiap nikmati"
             ]
+        },
+        {
+            "id": 9,
+            "title": "Roaste Banana Cinnamon.",
+            "image": "https://cdn-brilio-net.akamaized.net/news/2019/08/02/168307/1075284-1000xauto-resep-camilan-dari-pisang.jpg",
+            "desc": [
+                "1 Bakar/panggang pisang di atas pan dengan api kecil sambil digepengkan dengan cara ditekan-tekan",
+                "2 Panaskan pan, tuangkan butter, tunggu sampai butter meleleh, tambahkan madu dan bubuk kayu manis. Aduk rata",
+                "3 Masukkan pisang yang sudah dipanggang/bakar, aduk pisang sampai tercampur rata",
+                "4 Angkat dan sajikan"
+            ]
+        },
+        {
+            "id": 10,
+            "title": "Pandan banana roll cake.",
+            "image": "https://cdn-brilio-net.akamaized.net/news/2019/08/02/168307/1075283-resep-camilan-dari-pisang.jpg",
+            "desc": [
+                "1 Panaskan oven 200-210 derajat celcius, oles loyang 28x28 dengan margarine, alasi dengan kertas baking",
+                "2 Campur semua bahan pandan cake kecuali mentega, sampai pucat lembut dan lengket, mengembang 2 kali lipat",
+                "3 Ambil sebagian adonan, campur dengan mentega, aduk sampai benar-benar rata",
+                "4 Satukan dengan adonan awal, aduk balik sampai semua benar-benar rata, tuangkan ke dalam loyang sampai kental, ratakan, panggang 10-12 menit",
+                "5  Sementara menunggu cake dingin, masukkan buttercream ke dalam plastik",
+                "6 Panaskan minyak goreng + 1 sdm mentega, masukkan pisang raja goreng sampai permukaan agak kecokelatan, angkat, tiriskan, diamkan sampai dingin",
+                "7  Bagi cake jadi 4, taruh pisang di atasnya, semprot buttercream di atasnya, taburi dengan keju parut dan meses, tutup dengan pisang lagi.",
+                "8 Gulung rapat dengan plastik wrap, masukkan di kulkas minim 1 jam",
+                "9 Semua bahan toping diaduk rata.",
+                "10 Keluarkan cake dari kulkas, potong bagian pinggir, lalu potong lagi jadi dua",
+                "11 Celupkan bagian sisi pinggir biarkan dingin dan taruh di atas cooking rack."
+            ]
+        },
+        {
+            "id": 11,
+            "title": "Banana cake kukus.",
+            "image": "https://cdn-brilio-net.akamaized.net/news/2019/08/02/168307/1075289-1000xauto-resep-camilan-dari-pisang.jpg",
+            "desc": [
+                "1 Kocok dengan mixer, Putih telur, gula pasir,Bertahap dari speed rendah hingga berbusa, lalu speed tinggi hingga kental.",
+                "2 Tepung terigu, maizena, susu bubuk, dan vanila powder yang telah diayak",
+                "3 Aduk dengan spatula, cukup sampai rata",
+                "4 Tuangkan mentega cair, santan dan perisa pisang, aduk balik perlahan, hingga rata dan solid, pastikan tidak ada endapan cairan",
+                "5 Tambahkan beberapa tetes pewarna kuning tua, hingga warna yang diinginkan",
+                "6 Oles cetakan dengan margarin, tidak perlu ditabur tepung",
+                "7 Panaskan kukusan hingga beruap dengan api sedang. Masukkan adonan, kukus selama 10 menit, hingga matang",
+                "8 Angkat dan keluarkan dari cetakan",
+                "9 Oles dengan dark cooking chocolate yang telah dicairkan, beri motif corak mirip pisang. Sajikan"
+            ]
+        },
+        {
+            "id": 12,
+            "title": "Daging masak kecap/meat",
+            "image": "https://cdn-brilio-net.akamaized.net/news/2019/10/16/172340/1112110-1000xauto-18-resep-masakan-daging-sapi-enak-sederhana-mudah-dibuat.jpg",
+            "desc": [
+                "1 Rebus daging, tiriskan. Lalu potong-potong, air rebusan jangan dibuang",
+                "2 Tumis bawang merah putih, daun salam, lengkuas, jahe sampai harum",
+                "3 Masukkan cabai, batang serai, dan daging sapi didihkan. Tambahkan garam dan gula lalu koreksi rasa.",
+                "4 Biarkan bumbu meresap sekitar 5-10 menit",
+                "5 Angkat dan hidangkan."
+            ]
         }
     ]
 }
