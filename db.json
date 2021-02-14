@@ -25,17 +25,6 @@
             ]
         },
         {
-            "id": 3,
-            "title": "Resep Ayam Kemangi Goreng",
-            "image": "https://www.masakapahariini.com/wp-content/uploads/2019/12/Ayam-Kemangi--620x440.jpg",
-            "desc": [
-                "1 Rebus ayam dengan bumbu halus, daun kemangi, garam, merica, dan Bango Kecap Manis. Aduk rata.",
-                "2 Masak ayam dengan api kecil hingga matang. Angkat dan sisihkan",
-                "3 Panaskan minyak, goreng ayam dan kemangi hingga kering.",
-                "4 Angkat dan sajikan."
-            ]
-        },
-        {
             "id": 4,
             "title": "perkedel daging",
             "image": "https://www.masakapahariini.com/wp-content/uploads/2019/05/perkedel-daging-400x240.jpg",
@@ -63,35 +52,6 @@
             ]
         },
         {
-            "id": 6,
-            "title": "Tahu Susu Lembang",
-            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQr8GohgNgXdUMcQMy5jkgxSSFANGVenZIpUQ&usqp=CAU",
-            "desc": [
-                "1 RESEP TAHU GORENGAdonan tepung: Aduk rata tepung terigu, baking powder, bubuk cabai, merica, dan Royco Kaldu Ayam. Sisihkan.",
-                "2 Kocok rata telur dan susu cair, sisihkan. Ambil potongan tahu, masukkan ke dalam tepung, kemudian masukkan ke dalam campuran susu, dan lumuri kembali dengan tepung hingga merata.",
-                "3 Goreng dengan api panas hingga berwarna coklat keemasan. Angkat dan tiriskan.",
-                "4 Sambal kecap: Tuang Bango Kecap Manis Pedas ke dalam wadah sambal. Sajikan tahu goreng dengan sambal kecap.",
-                "5 RESEP TAHU TUMISPanaskan margarin dalam wajan, tumis bawang merah, bawang putih, bawang bombay dan cabai rawit hingga harum. Masukkan tomat dan air, aduk.",
-                "6 Tambahkan Bango Kecap Manis, Royco Kaldu Ayam, dan merica, aduk. Masak hingga matang.",
-                "7 Masukkan tahu, aduk rata. Masak hingga tahu berubah warna dan kuah meresap ke dalam tahu. Angkat, sajikan.",
-                "8 RESEP TAHU KUKUS UDANGAduk rata Bango Kecap Manis, garam, merica, bawang putih, bawang merah, jahe, air, tepung sagu. Sisihkan.",
-                "9 Siapkan pinggan tahan panas, tata tahu ke dalamnya. Beri 1 sdm udang cincang ke atas tahu. Kucuri dengan campuran kecap, taburi dengan bawang daun.",
-                "10 Kukus dalam dandang panas selama sekitar 20 menit atau hingga matang. Angkat. Sajikan.",
-                "11 Sajikan ketiga hidangan untuk dinikmati selagi hangat."
-            ]
-        },
-        {
-            "id": 7,
-            "title": "Telur Keju dan Sayur",
-            "image": "https://www.masakapahariini.com/wp-content/uploads/2019/05/dadar-telur-keju-780x440.jpg",
-            "desc": [
-                "1 Panaskan 1 sdm minyak di dalam wajan di atas api sedang. Tumis jamur, bayam, dan wortel selama 2 menit.",
-                "2 Dalam mangkuk, kocok telur, susu, Royco Kaldu Ayam, dan sayur yang telah ditumis, aduk rata.",
-                "3 Panaskan kembali wajan dangan sedikit minyak, tuangkan campuran telur. Ketika telah setengah matang, letakkan keju di tengahnya. Gulung seperti omelette. Angkat.",
-                "4 Sajikan segera ditemani saus tomat."
-            ]
-        },
-        {
             "id": 8,
             "title": "juice banana",
             "image": "https://www.resepmasakterbaru.com/wp-content/uploads/2020/09/resep-jus-pisang.jpg",
@@ -104,35 +64,6 @@
                 "6 Tuangkan air bersih matang kedalam blender",
                 "7 Blender dengan tinggi, tunggu hingga lembut serta halus",
                 "8 Tuangkan pada gelas saji dan jus pisang sudah disiap nikmati"
-            ]
-        },
-        {
-            "id": 9,
-            "title": "Roaste Banana Cinnamon.",
-            "image": "https://cdn-brilio-net.akamaized.net/news/2019/08/02/168307/1075284-1000xauto-resep-camilan-dari-pisang.jpg",
-            "desc": [
-                "1 Bakar/panggang pisang di atas pan dengan api kecil sambil digepengkan dengan cara ditekan-tekan",
-                "2 Panaskan pan, tuangkan butter, tunggu sampai butter meleleh, tambahkan madu dan bubuk kayu manis. Aduk rata",
-                "3 Masukkan pisang yang sudah dipanggang/bakar, aduk pisang sampai tercampur rata",
-                "4 Angkat dan sajikan"
-            ]
-        },
-        {
-            "id": 10,
-            "title": "Pandan banana roll cake.",
-            "image": "https://cdn-brilio-net.akamaized.net/news/2019/08/02/168307/1075283-resep-camilan-dari-pisang.jpg",
-            "desc": [
-                "1 Panaskan oven 200-210 derajat celcius, oles loyang 28x28 dengan margarine, alasi dengan kertas baking",
-                "2 Campur semua bahan pandan cake kecuali mentega, sampai pucat lembut dan lengket, mengembang 2 kali lipat",
-                "3 Ambil sebagian adonan, campur dengan mentega, aduk sampai benar-benar rata",
-                "4 Satukan dengan adonan awal, aduk balik sampai semua benar-benar rata, tuangkan ke dalam loyang sampai kental, ratakan, panggang 10-12 menit",
-                "5  Sementara menunggu cake dingin, masukkan buttercream ke dalam plastik",
-                "6 Panaskan minyak goreng + 1 sdm mentega, masukkan pisang raja goreng sampai permukaan agak kecokelatan, angkat, tiriskan, diamkan sampai dingin",
-                "7  Bagi cake jadi 4, taruh pisang di atasnya, semprot buttercream di atasnya, taburi dengan keju parut dan meses, tutup dengan pisang lagi.",
-                "8 Gulung rapat dengan plastik wrap, masukkan di kulkas minim 1 jam",
-                "9 Semua bahan toping diaduk rata.",
-                "10 Keluarkan cake dari kulkas, potong bagian pinggir, lalu potong lagi jadi dua",
-                "11 Celupkan bagian sisi pinggir biarkan dingin dan taruh di atas cooking rack."
             ]
         },
         {
