@@ -93,6 +93,29 @@
                 "4 Biarkan bumbu meresap sekitar 5-10 menit",
                 "5 Angkat dan hidangkan."
             ]
+        },
+        {
+            "id": 13,
+            "title": "Puding Susu Strawberry",
+            "image": "https://cdn1-production-images-kly.akamaized.net/SUiV199mQk07auFLh8NEP4fyzRs=/680x383/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/2483093/original/097074200_1543321129-resep-simpel-puding-susu-strawberry-enak.jpg",
+            "desc": [
+                "1 Campur bubuk jelly powder dengan susu segar lalu aduk rata. Tambahkan gula pasir.",
+                "2 Rebus semua bahan hingga mendidih dengan api kecil.",
+                "3 Masukkan susu kental manis dan buah strawberry secukupnya. Aduk rata, masak lagi hingga mendidih. ",
+                "4 Matikan kompor kemudian tuang puding ke gelas atau mangkok (cetakan puding) sambil disaring. ",
+                "5 Masukkan puding ke lemari es selama beberapa menit agar lebih cepat membentuk puding. ",
+                "6 Sajikan puding yang telah jadi."
+            ]
+        },
+        {
+            "id": 14,
+            "title": "Puding Strawberry Oreo",
+            "image": "https://cdn.yummy.co.id/content-images/images/20200924/LgUYvhNlY6sAYWDLzFZOr75uhS66Hz9g-31363030393330393533d41d8cd98f00b204e9800998ecf8427e_800x800.jpg",
+            "desc": [
+                "1 Lapisan pertama : blender strawberry dan susu cair 150 ml hingga lembut. Rebus sisa susu cair 450 ml agar-agar dan gula pasir aduk sampai mendidih, matikan api. Tuang blenderan alpukat dan aduk rata",
+                "2 Lapisan 2 : rebus susu cair, agar-agar, pasta Vanilla dan gula hingga mendidih matikan api. Kocok putih telur hingga kaku, masukkan adonan agar-agar sedikit demi sedikit sampai habis sambil di kocok dengan mixer kecepatan rendah. Matikan mixer masukkan oreo aduk rata. Tuang di lapisan atas strawberry.",
+                "3 Lapisan 3 : rebus susu cair, agar-agar, coklat bubuk,gula sampai mendidih sambil di aduk. Ambil adonan 2 sendok sayur dan campur ke dalam kuning telur aduk rata. Masukan ke dalam adonan agar-agar coklat masak hingga mendidih dan tuang di atas lapisan Oreo"
+            ]
         }
     ]
 }
