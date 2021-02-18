@@ -64,6 +64,12 @@
                 "6 Tuangkan air bersih matang kedalam blender",
                 "7 Blender dengan tinggi, tunggu hingga lembut serta halus",
                 "8 Tuangkan pada gelas saji dan jus pisang sudah disiap nikmati"
+            ],
+            "bahan": [
+                "pisang 100 gram",
+                "yoghurt 100ml",
+                "susu cair 100ml",
+                "es batu secukupnya"
             ]
         },
         {
@@ -80,18 +86,14 @@
                 "7 Panaskan kukusan hingga beruap dengan api sedang. Masukkan adonan, kukus selama 10 menit, hingga matang",
                 "8 Angkat dan keluarkan dari cetakan",
                 "9 Oles dengan dark cooking chocolate yang telah dicairkan, beri motif corak mirip pisang. Sajikan"
-            ]
-        },
-        {
-            "id": 12,
-            "title": "Daging masak kecap/meat",
-            "image": "https://assets-a1.kompasiana.com/statics/files/14223263631486193886.jpg",
-            "desc": [
-                "1 Rebus daging, tiriskan. Lalu potong-potong, air rebusan jangan dibuang",
-                "2 Tumis bawang merah putih, daun salam, lengkuas, jahe sampai harum",
-                "3 Masukkan cabai, batang serai, dan daging sapi didihkan. Tambahkan garam dan gula lalu koreksi rasa.",
-                "4 Biarkan bumbu meresap sekitar 5-10 menit",
-                "5 Angkat dan hidangkan."
+            ],
+            "bahan": [
+                "4 buah pisang raja,haluskan",
+                "4 sdm gula pasir",
+                "5 sdm tepung terigu",
+                "5 sdm minyak goreng",
+                "2 butir telur",
+                "1 sdt soda kue"
             ]
         },
         {
@@ -105,6 +107,15 @@
                 "4 Matikan kompor kemudian tuang puding ke gelas atau mangkok (cetakan puding) sambil disaring. ",
                 "5 Masukkan puding ke lemari es selama beberapa menit agar lebih cepat membentuk puding. ",
                 "6 Sajikan puding yang telah jadi."
+            ],
+            "bahan": [
+                "250 ml Susu uht strawberry",
+                "250 ml susu uht plain",
+                "Nutrijell strawberry",
+                "Nutrijell plain",
+                "200 gr gulpas",
+                "SKM sckupnya",
+                "10-15 buah strawberry"
             ]
         },
         {
